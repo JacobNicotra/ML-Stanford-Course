@@ -1,0 +1,4 @@
+github for this python version of assingments: https://github.com/dibgerge/ml-coursera-python-assignments/blob/master/README.md
+
+coursera course: https://www.coursera.org/learn/machine-learning/home/
+
